@@ -1,194 +1,210 @@
-# Hi, I'm Sankaranarayanan R 👋
+<div align="center">
 
-### PHP Developer | CodeIgniter | Laravel | MySQL | JavaScript
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Sankaranarayanan%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PHP%20Developer%20%7C%20CodeIgniter%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sankaranarayanan R — PHP Developer, CodeIgniter Developer, Backend Developer"/>
 
-I'm a **PHP Developer** with hands-on experience building web applications using **PHP, CodeIgniter, MySQL, JavaScript, jQuery, AJAX, HTML, CSS, and Bootstrap**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems+with+PHP+%26+CodeIgniter;1.3%2B+years+turning+real+business+problems+into+code;Currently+expanding+into+Laravel+%2B+React+%2B+Docker" alt="Typing animation: PHP & CodeIgniter developer summary" />
 
-Currently, I'm expanding my development skills with **Laravel, React, REST APIs, Docker, and CI/CD** while building practical full-stack projects.
+<p>
+<a href="https://portsn.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sankarkutty" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Sankar360" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
----
+<p>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sankar360&label=Profile%20Views&color=38BDF8&style=flat-square" />
+<img alt="Followers" src="https://img.shields.io/github/followers/Sankar360?label=Followers&style=flat-square&color=38BDF8" />
+<img alt="Stars" src="https://img.shields.io/github/stars/Sankar360?label=Stars&style=flat-square&color=38BDF8" />
+</p>
 
-## 👨‍💻 About Me
+</div>
 
-* 💻 PHP Developer with hands-on experience in **CodeIgniter 3 & 4**
-* 🚀 Currently developing projects with **Laravel + React**
-* 🗄️ Experienced with **MySQL** and relational database design
-* 🔌 Experience working with **REST APIs and payment gateway integrations**
-* ⚡ Familiar with **JavaScript, jQuery, AJAX, HTML, CSS, and Bootstrap**
-* 🔐 Experience with authentication, sessions, MVC architecture, and APIs
-* 🐳 Learning and implementing **Docker and CI/CD**
-* 🌱 Continuously improving my backend and full-stack development skills
-* 🤝 Open to collaborating on web development projects
+<br/>
 
----
+## 👋 About Me
 
-## 🛠️ Tech Stack
+I'm a backend-focused developer with **around 1.3 years of hands-on experience** building real-world web applications using **PHP, CodeIgniter, and MySQL**.
 
-### Backend
+My work covers backend development, database-driven applications, **REST APIs**, **AJAX/jQuery** functionality, third-party integrations, and **payment gateway** integration (Razorpay, Mollie). I enjoy turning business requirements into practical, maintainable applications.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+**Currently expanding into:** `Laravel` · `React` · `Docker` · `CI/CD` · `REST API Architecture`
 
-### Frontend
+🟢 Open to backend / full-stack opportunities.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+<br/>
 
-### Database
+## 🧩 Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<div align="center">
 
-### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,bootstrap,html,css,git,github,docker,postman&theme=dark" alt="Tech stack: PHP, Laravel, MySQL, JavaScript, React, Bootstrap, HTML, CSS, Git, GitHub, Docker, Postman"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
+<img src="https://img.shields.io/badge/Mollie-000000?style=for-the-badge&logo=mollie&logoColor=white" alt="Mollie"/>
 
-## 🚀 Featured Project
+</div>
 
-### 🛒 BSSShop — E-Commerce Platform
+**Backend:** `PHP` `CodeIgniter 3` `CodeIgniter 4` `Laravel` `REST API`
 
-A full-stack e-commerce application that I'm developing and improving as a practical project.
+**Frontend:** `HTML5` `CSS3` `JavaScript` `jQuery` `AJAX` `Bootstrap` `React`
 
-**Current technology stack:**
+**Database:** `MySQL`
 
-* Laravel
-* React
-* MySQL
-* REST API
-* Laravel Sanctum
-* JavaScript
-* Bootstrap
-* Razorpay Payment Gateway
+**Payment Integration:** `Razorpay` `Mollie`
 
-**Features include:**
+**Tools & DevOps:** `Git` `GitHub` `Docker` `CI/CD` `Postman` `XAMPP` `FileZilla`
 
-* 🛍️ Product management
-* 📂 Categories and product filtering
-* 🔎 Product search
-* 🎨 Product variants and specifications
-* 🛒 Shopping cart
-* ❤️ Wishlist
-* 👤 Customer authentication
-* 📦 Order management
-* 💳 Razorpay payment integration
-* 🧾 Order and invoice handling
-* 📝 Blog and FAQ
-* 📞 Contact functionality
-* 🔐 API authentication
-
-🔗 **Live Demo:** https://bssshop.freedev.app
-
----
+<br/>
 
 ## 💼 Professional Experience
 
-### PHP Developer
+**PHP Developer — Bugtreat Technologies**
+*Around 1.3 years*
 
-**Bugtreat Technologies**
+- Developed and maintained PHP / CodeIgniter applications
+- Worked with MySQL databases and application queries
+- Implemented AJAX and jQuery-based functionality
+- Integrated REST APIs and third-party services
+- Worked with payment gateway integrations
+- Developed new application features
+- Fixed application bugs and production issues
+- Implemented client and project requirements
+- Maintained and improved existing applications
 
-Worked on web applications using:
+<br/>
 
-* PHP
-* CodeIgniter 3 & 4
-* MySQL
-* JavaScript
-* jQuery
-* AJAX
-* HTML/CSS
-* Bootstrap
-* REST APIs
-* Payment Gateway Integration
+## 🚀 Featured Project — Bssshop
 
-Worked on real-time application features including:
+### 🛒 E-Commerce Web Application
 
-* CRM functionality
-* CMS development
-* E-commerce functionality
-* Product filtering and search
-* Authentication and sessions
-* API integrations
-* Payment integrations
-* Database-driven features
+`Laravel` `React` `PHP` `MySQL` `REST API` `Sanctum` `JavaScript` `jQuery` `Bootstrap` `Razorpay`
 
----
+Bssshop is my personal e-commerce application, built to demonstrate practical full-stack development: API integration, authentication, product management, and payment processing.
 
-## 🔌 Integrations & APIs
+**Key Features**
+- 📦 Product management, categories & variants (with stock tracking)
+- 🔍 Product filtering & search
+- 🛒 Cart & order management
+- 🔐 Authentication with Laravel Sanctum
+- 👤 User profile management
+- 📝 Blog, FAQ & contact modules
+- 🛠️ Admin functionality
+- 💳 Razorpay payment integration
 
-I've worked with or explored integrations such as:
-
-* Razorpay
-* Mollie
-* REST APIs
-* Authentication APIs
-* Payment callbacks/webhooks
-
----
-
-## 📚 Currently Learning
+**Architecture**
 
 ```text
-Laravel
-React
-Docker
-CI/CD
-REST API Development
-Advanced MySQL
-SQL Optimization
-Backend Architecture
-Full-Stack Development
+React Frontend
+      │
+      ▼
+Laravel REST API
+      │
+      ▼
+Sanctum Authentication
+      │
+      ▼
+MySQL
+      │
+      ▼
+Payment Gateway
 ```
 
----
+**Links:**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bssshop.freedev.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sankar360)
 
-## 📌 Other Projects
+<br/>
 
-### ⚛️ React Mini Projects
+## 📂 Other Projects
 
-A collection of small React projects created to practice modern frontend development, component-based architecture, state management, API integration, and responsive UI development.
+### 🛍️ Phonefurb — E-Commerce CMS
 
-### 🌐 Portfolio Projects
+`PHP` `CodeIgniter 4` `MySQL` `Mollie`
 
-Personal portfolio projects focused on showcasing my development skills, projects, technologies, and professional experience.
+An e-commerce CMS covering the full store workflow — product catalog, categories, filtering, order management, and payment integration via Mollie. Focused on maintainability and extending existing functionality without breaking live store data.
 
-👉 **View all repositories:**
-https://github.com/Sankar360?tab=repositories
+**Highlights**
+- 🗂️ Product category & catalog management
+- 🔍 Product filtering
+- 🧾 Order processing workflow
+- 💳 Mollie payment gateway integration
+- 🛠️ Ongoing maintenance & feature additions
 
----
+### 🧑‍💼 Serku CRM — Customer Relationship Management
 
-## 📊 GitHub Stats
+`PHP` `CodeIgniter` `RISE CRM` `MySQL`
 
----
+A CRM built on top of the RISE CRM platform, customized for business workflows, lead/client management, and reporting. Worked on tailoring RISE CRM modules to fit specific operational requirements.
 
-## 📈 Most Used Languages
+**Highlights**
+- 👥 Lead & client management customization
+- 🔄 Business workflow adjustments
+- 📊 Data management & reporting
+- 🧩 RISE CRM module extensions
+- 🛠️ Application maintenance
 
----
+<br/>
 
-## 🌐 Connect With Me
+## 📊 GitHub Activity
 
-* 💻 GitHub: https://github.com/Sankar360
-* 💼 LinkedIn: https://linkedin.com/in/sankarkutty
-* 🌐 Portfolio: https://portsn.netlify.app
+<div align="center">
 
----
+### 💻 Explore My GitHub
 
-## 💡 Developer Philosophy
+<a href="https://github.com/Sankar360">
+<img src="https://img.shields.io/badge/GitHub-Sankar360-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sankar360 GitHub profile"/>
+</a>
 
-> **Build. Learn. Improve. Repeat.**
+<br/><br/>
 
-I believe in learning by building real projects, solving practical problems, and continuously improving code quality and development practices.
+<a href="https://github.com/Sankar360?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
 
----
+<a href="https://github.com/Sankar360?tab=stars">
+<img src="https://img.shields.io/badge/Stars-View%20Stars-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View starred repositories"/>
+</a>
 
-⭐ **Thanks for visiting my profile!**
+<br/><br/>
 
-If you find my projects useful, feel free to explore my repositories and connect with me.
+**PHP • CodeIgniter • Laravel • React • MySQL • REST APIs**
+
+</div>
+
+
+<br/>
+
+## 🌱 Currently Learning
+
+```text
+   CURRENT              EXPANDING              NEXT
+ ┌──────────┐        ┌──────────────┐      ┌───────────────┐
+ │   PHP    │   →    │   Laravel    │  →   │    Docker     │
+ │CodeIgniter│        │    React     │      │    CI/CD      │
+ │  MySQL   │        │ REST API arch│      │ SQL Optimize  │
+ └──────────┘        └──────────────┘      │ Prod Deploy   │
+                                            └───────────────┘
+```
+
+`Laravel` `React` `REST API Architecture` `Docker` `CI/CD` `SQL Optimization` `Production Deployment`
+
+<br/>
+
+## 📬 Let's Build Something Together
+
+Open to opportunities where I can contribute my backend development experience, learn modern technologies, and grow as a developer.
+
+<p>
+<a href="https://portsn.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sankarkutty" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Sankar360" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+*Thanks for visiting my profile.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=20,11,6&section=footer" width="100%" alt=""/>
+
+</div>
