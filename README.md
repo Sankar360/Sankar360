@@ -19,7 +19,6 @@
 </p>
 
 <p>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sankar360&label=Profile%20Views&color=38BDF8&style=flat-square"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/Sankar360?label=Followers&style=flat-square&color=38BDF8"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/Sankar360?label=Stars&style=flat-square&color=38BDF8"/>
 </p>
